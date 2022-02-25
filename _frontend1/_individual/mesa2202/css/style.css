@@ -11,7 +11,7 @@ h1 {
 
 .media-picture {
     font-size: 400px;
-    background-image: url(https://static.vix.com/pt/sites/default/files/v/vingadores-ultimato-0419-1400x800.jpg);
+    background-image: url('https://static.vix.com/pt/sites/default/files/v/vingadores-ultimato-0419-1400x800.jpg');
     background-size: cover;
     background-position: left;
 }
@@ -20,9 +20,11 @@ h1 {
     color: white;
     background-color: #e6bd09;
     padding: 12px;
+    font-family: serif;
 }
 
 h2 {
+    font-family: Arial, Helvetica, sans-serif;
     color: steelblue;
 }
 

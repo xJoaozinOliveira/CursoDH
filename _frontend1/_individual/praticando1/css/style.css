@@ -1,0 +1,21 @@
+h3 {
+    color: blue;
+}
+    #title {
+        tamanho da fonte: 40px;
+        transformação de  texto: maiúsculas;
+    }
+.sub-title {
+    font-weight: bold;
+    estilo da fonte: itálico;
+}
+    #ola{ color: blue;}
+    .noticia { font-size: 24px }
+    p { color: gray }
+    h2.subtitulo { color: yellow; }
+    ul#lista li { text-align: center;}
+    h3 { color: purple; }
+    h2 { color: black}
+    p { color:)}
+    p { background-color: rgb(127, 168, 214)}
+    p { opacity: 0.5; }
