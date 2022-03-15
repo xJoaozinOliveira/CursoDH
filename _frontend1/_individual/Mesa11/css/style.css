@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box  ;
+}
+
+
+
+.menu-header {
+    background-color: #222222;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.lista-menu {
+    display: flex;
+    list-style-type: none;
+    color: white;
+}
+
+nav {
+    display: block;
+}
+
+li {
+    margin: 10px;
+    padding-top: 10px;
+}
+
+a {
+    color: white;
+}
+
+footer {
+    background-color:  #222222;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+} 
+
+.lista-rodapé {
+    color: white;  
+    list-style: none;
+    display: contents;
+}
+
